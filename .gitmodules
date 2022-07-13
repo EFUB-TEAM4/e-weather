@@ -1,0 +1,3 @@
+[submodule "backend_e-weather"]
+	path = backend_e-weather
+	url = https://github.com/EFUB-TEAM4/backend_e-weather.git
