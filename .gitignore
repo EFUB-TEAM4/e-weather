@@ -1,3 +1,4 @@
 settings/.env
 .idea
 .vscode
+/var
