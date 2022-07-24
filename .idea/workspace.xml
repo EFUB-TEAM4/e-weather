@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6286a7c9-4686-4f19-9ce7-6876dfaaf0ec" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx/nginx.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_e-weather" beforeDir="false" afterPath="$PROJECT_DIR$/backend_e-weather" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +20,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend_e-weather" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -191,7 +189,11 @@
       <workItem from="1657553571757" duration="959000" />
       <workItem from="1657697301738" duration="2000000" />
       <workItem from="1657699899495" duration="1041000" />
-      <workItem from="1657990645658" duration="6547000" />
+      <workItem from="1657990645658" duration="7908000" />
+      <workItem from="1658154529250" duration="681000" />
+      <workItem from="1658222522627" duration="598000" />
+      <workItem from="1658381013473" duration="1816000" />
+      <workItem from="1658557070732" duration="1275000" />
     </task>
     <servers />
   </component>
